@@ -6,3 +6,6 @@ clean the code
 tidy room
 shower
 kitap oku
+hi
+hello
+masterpython
